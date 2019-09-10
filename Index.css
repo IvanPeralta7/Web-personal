@@ -1,0 +1,56 @@
+body{
+    margin: 15px;
+    background-color: #80AAFF;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 1px 2px 2px #6666FF;
+}
+#nombre{
+    background-color:#5C45F0;
+    margin: 25px 50px 25px 50px;
+    padding: 5px 35px 5px 35px;
+}
+h2{
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 1px 2px 2px #6666FF;
+}
+#nacionalidad{
+    background-color:#3D2D9E;
+    margin: 25px 50px 25px 50px;
+    padding: 5px 35px 5px 35px;
+}
+#domicilio{
+    background-color:#3D2D9E;
+    margin: 25px 50px 25px 50px;
+    padding: 5px 35px 5px 35px;
+}
+#localidad{
+    background-color:#3D2D9E;
+    margin: 25px 50px 25px 50px;
+    padding: 5px 35px 5px 35px;
+}
+#Dni{
+    background-color:#26155C;
+    margin: 25px 50px 25px 50px;
+    padding: 5px 35px 5px 35px;
+}
+#Telefono{
+    background-color:#26155C;
+    margin: 25px 50px 25px 50px;
+    padding: 5px 35px 5px 35px;
+}
+ul{
+    margin: 25px 50px 25px 50px;
+    list-style-type:square;
+    border-style:solid;
+    box-shadow: 2px 2px 7px 1px #884DFF;
+
+}
+footer{
+    background-color: #6666FF;
+    font-style: italic;
+    text-align: center;
+}
