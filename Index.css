@@ -49,6 +49,15 @@ ul{
     box-shadow: 2px 2px 7px 1px #884DFF;
 
 }
+.experiencia{
+   display: inline;
+   padding: 10px;
+  
+}
+#trabajos{
+    list-style-type:circle;
+}
+
 footer{
     background-color: #6666FF;
     font-style: italic;
