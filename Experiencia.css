@@ -1,0 +1,16 @@
+body{
+    margin: 15px;
+    background-color: #80AAFF;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 1px 2px 2px #6666FF;
+}
+ul{
+    margin: 25px 50px 25px 50px;
+    list-style-type:square;
+    border-style:solid;
+    box-shadow: 2px 2px 7px 1px #884DFF;
+
+}
