@@ -1,0 +1,31 @@
+body{
+    margin: 15px;
+    background-color: #80AAFF;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 1px 2px 2px #6666FF;
+}
+.Formacion{
+    margin: 25px 50px 25px 50px;
+    padding: 5px 5px 5px 5px;
+    background-color: aquamarine;
+
+}
+ul{
+    margin: 25px 50px 25px 50px;
+    list-style-type:square;
+    border-style:solid;
+    box-shadow: 2px 2px 7px 1px #884DFF;
+
+}
+#trabajos{
+    list-style-type:circle;
+}
+.volver{
+    margin: 25px 50px 25px 50px;
+    padding: 5px 5px 5px 5px;
+    background-color: aquamarine;
+    align-content: center;
+}
